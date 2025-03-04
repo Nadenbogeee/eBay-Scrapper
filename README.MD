@@ -79,6 +79,10 @@ npm start
 }
 ```
 
+## API Response POSTMAN
+
+![1741054808656](image/README/1741054808656.png)
+
 ## Technical Implementation Details
 
 ### Web Scraping
